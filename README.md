@@ -5,5 +5,5 @@
  # TODO
  
  - Añadir más ejemplos para las placas ESP8266+BricoLabs Shield con sensores
- - Añadir ejemplo por método OTAA
+ - Añadir ejemplos por método OTAA e incluirlos en las diapositivas
  - Añadir integraciones con Node-RED
