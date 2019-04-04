@@ -5,7 +5,7 @@
  # TODO
  
  - Añadir más ejemplos para las placas ESP8266+BricoLabs Shield con sensores
- - Añadir ejemplos por método OTAA e incluirlos en las diapositivas
+ - ~~Añadir ejemplos por método OTAA~~ e incluirlos en las diapositivas
  - Añadir integraciones con Node-RED
  - Añadir explicación TTN Mapper
  - Añadir ejemplo TTNMapper con TTGO Beam
