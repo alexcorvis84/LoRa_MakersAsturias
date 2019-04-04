@@ -1,6 +1,6 @@
 // TTN Decoder for TTN OTAA ESP32TTGO V1 EU868 DHT22 Sketch
 // Based on Adafruit Link: https://github.com/mcci-catena/arduino-lmic/blob/master/examples/ttn-otaa-feather-us915-dht22/ttn-otaa-feather-us915-dht22.ino
-// @AlexCorvis84 Link: 
+// @AlexCorvis84 Link: https://github.com/alexcorvis84/LoRa_MakersAsturias/blob/master/ttn-otaa-ttgov1-eu868-dht22_gen
 function Decoder(bytes, port) {
   // Decode an uplink message from a buffer
   // (array) of bytes to an object of fields.
