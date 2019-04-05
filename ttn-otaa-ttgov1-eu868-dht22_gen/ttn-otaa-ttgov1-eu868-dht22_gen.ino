@@ -44,7 +44,7 @@ GPIO2                                         TTGO LoRa
 *
 *
 * The LMIC library used is the MCCI-catena one: 
-*https://github.com/mcci-catena/arduino-lorawan
+* https://github.com/mcci-catena/arduino-lmic
 *
 * You need to setup the library config file (lmic_project_config.h), found under path
 * ..Arduino\libraries\MCCI_LoRaWAN_LMIC_library\project_config
