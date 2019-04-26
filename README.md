@@ -1,6 +1,8 @@
 # Taller IOT: Introducción a LoRa®, LoRaWAN™ y The Things Network
- - Ejemplos creados para Nodos basados en ESP32 TTGO V1 y ESP8266+BricoLabs WemosD1 LoRa Shield
- - Diapositivas del Taller V1.0 añadidas
+ - Ejemplo para Nodo ESP32 TTGO V1
+ - Ejemplo para Nodo basado en Wemos D1 Mini (ESP8266) + LoRa BricoLabs (EU868, ABP) 
+ - Ejemplo Wemos D1 Mini (ESP8266) + LoRa BricoLabs + SHT30 (Cayenne LPP, EU868, ABP)
+ - Diapositivas de la Charla-Taller V1.0
  
  # TODO
  
